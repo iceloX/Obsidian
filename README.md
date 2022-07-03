@@ -1,2 +1,0 @@
-# NoteSystem
-Note for Obsidian
