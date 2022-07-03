@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Leaning/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Leaning/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Leaning/README.md"
               }
             }
           }
@@ -99,9 +99,11 @@
   },
   "active": "d75c879e85f084de",
   "lastOpenFiles": [
-    "README.md",
-    "Programing/README.md",
+    "Leaning/README.md",
+    "未命名 1.md",
     "未命名.md",
+    "Programing/README.md",
+    "README.md",
     "Readme.md.md"
   ]
 }
